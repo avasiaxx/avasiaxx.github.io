@@ -3949,13 +3949,3 @@ body.is-preload #header.alt .logo {
     /* Ensures the image does not exceed its container */
     height: auto;
 }
-
-.text-container {
-    display: flex;
-    justify-content: center; /* Centers the content along the main axis (horizontally) */
-    align-items: center; /* Centers the content along the cross axis (vertically) */
-}
-
-.centered-text {
-    text-align: center; /* Centers the text horizontally within its container */
-}
