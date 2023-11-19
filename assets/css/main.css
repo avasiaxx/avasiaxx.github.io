@@ -3940,6 +3940,8 @@ body.is-preload #header.alt .logo {
 .gif-container {
     display: flex;
     justify-content: center; /* Centers the content along the main axis (horizontally) */
+    /* Add or modify the following line to set a different background color or make it transparent */
+    background-color: transparent; /* or any other color */
 }
 
 .gif-container img {
